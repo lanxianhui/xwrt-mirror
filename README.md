@@ -22,7 +22,9 @@ and
 
 add 
 
-src-git xwrt https://github.com/xdodx00/xwrt-mirror.git
+src-git xwrt https://github.com/xdodx00/xwrt-mirror.git 
+
+
 src-git luci https://github.com/openwrt/luci.git
 
 
